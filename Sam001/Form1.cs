@@ -19,7 +19,7 @@ namespace Sam001
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button1.Text = "Hello";
+            button1.Text = "OK Button";
         }
     }
 }
