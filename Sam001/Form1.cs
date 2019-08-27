@@ -16,5 +16,10 @@ namespace Sam001
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            button1.Text = "Cancel";
+        }
     }
 }
